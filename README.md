@@ -1,6 +1,10 @@
 
 ![](https://komarev.com/ghpvc/?username=uvaishzafri&color=green)
 
+<img  src="https://github-readme-stats.vercel.app/api?username=uvaishzafri&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for uvaishzafri">
+
+
+
 ### Hi there 👋, I am Uvaish zafri
 
 ![Create, Build, Inspire!](https://media-exp1.licdn.com/dms/image/C5116AQFCL4XTBXImhQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1599696000&v=beta&t=jF9ULuZo_2Gc5iY7_UaIKU3i0U5ZTgvQ_frplI-8T9I)
