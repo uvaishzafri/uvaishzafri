@@ -12,8 +12,8 @@
 **uvaishzafri/uvaishzafri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 Software Engineer || 4🌟CodeChef || Codeforces: Specialist || Android Dev
-- 👨‍💻 C/C++ || Android || Java || Kotlin
+- 🔭 Software Engineer || 4🌟CodeChef || Codeforces: Specialist || Flutter Dev
+- 👨‍💻 C/C++ || Flutter || Competitive Programming || Chess
 - ⚡ Fun fact: I am crazy about **O(1)**
 - 📫 How to reach me: [uvaishzafri1@gmail.com](mailto:uvaishzafri1@gmail.com)
 
