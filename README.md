@@ -3,7 +3,7 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=uvaishzafri&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for uvaishzafri">
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foxtrotravi" alt="foxtrotravi" /></a> </p>
 
 ### Hi there 👋, I am Uvaish zafri
 
